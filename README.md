@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Andrea @andreawaves
+- 👀 I’m interested in Data Engineering | Software Engineering | Computer Vision | GCP
+- 🌱 I’m currently learning :)
